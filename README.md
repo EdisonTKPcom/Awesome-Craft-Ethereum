@@ -116,6 +116,7 @@ pie showData
 
 ## Wallets and accounts
 
+- [BitTool Signer for iOS](https://bittool.com/signer/) - MIT-licensed offline iOS signer for Ethereum transactions and messages, exchanging requests and signatures by QR code; no independent security audit. ![Stars](https://img.shields.io/github/stars/bitbill/bittool-signer-ios?style=flat-square&label=%E2%AD%90)
 - [Safe Smart Account](https://github.com/safe-fndn/safe-smart-account) - The Safe smart-contract account (formerly Gnosis Safe) for multi-signature self-custody. UI products and modules may have additional terms. ![Stars](https://img.shields.io/github/stars/safe-fndn/safe-smart-account?style=flat-square&label=%E2%AD%90)
 
 ## Indexers and explorers
